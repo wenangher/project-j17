@@ -1,0 +1,58 @@
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.profile{
+	float: left;
+  	width: 20%;
+  	text-align: center;
+}
+
+.profile img{
+	width: 40%;
+	border-radius: 50%;
+	margin: 20px;
+	padding: 40px;
+	box-shadow: 2px 2px #CFD8DC;
+	cursor: pointer;
+}
+
+.foto1{
+	background-color: #00ACC1;
+}
+
+.foto2{
+	background-color: #00BCD4;
+}
+
+.foto3{
+	background-color: #26C6DA;
+}
+
+.foto4{
+	background-color: #4DD0E1;
+}
+
+.foto5{
+	background-color: #80DEEA;
+}
+
+.name {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin: 0;
+	color: #00838F;
+}
+
+.job {
+	font-size: 14px;
+	margin-top: 5px;
+	font-family: sans-serif;
+	color: #78909C;
+}
+
+.profile img:hover{
+	opacity: 0.6;
+}
